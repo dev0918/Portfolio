@@ -226,10 +226,10 @@ export const portfolioItems: PortfolioItem[] = [
     url: 'https://github.com/dev0918/Age_Gender_detection'
   },
   {
-    title: 'Project 7 : ',
-    description: 'short description.',
+    title: 'Project 7 : Movie Recommendation System',
+    description: 'This recommendation system is a type of information filtering system that makes suggestions based on user preferences and makes an effort to forecast the preferences of the user.',
     image: porfolioImage10,
-    url: ''
+    url: 'https://github.com/dev0918/movie_recommendation_system'
   },
   {
     title: 'Project 8 : ',
