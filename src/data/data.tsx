@@ -247,13 +247,13 @@ export const education: TimelineItem[] = [
     date: 'August 2021',
     location: 'Chandigarh University, Mohali',
     title: 'Masters of Computer Application in Artificial Intelligence & Machine Learning',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    content: <p></p>,
   },
   {
     date: 'July 2018',
     location: 'Dayalbagh Educational Institute, Agra',
     title: "Bachelor's of Vocation in Robotics & Artificial Intelligence",
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    content: <p>{/*Describe your experience at school, what you learned, what useful skills you have acquired etc.*/}</p>,
   },
 ];
 
