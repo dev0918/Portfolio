@@ -227,15 +227,15 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     title: 'Project 7 : Movie Recommendation System',
-    description: 'This recommendation system is a type of information filtering system that makes suggestions based on user preferences and makes an effort to forecast the preferences of the user.',
+    description: 'This recommendation system is a type of information filtering system that makes suggestions based on user preferences and makes an effort to forecast the preferences of the user. The aim of the project is to improve the quality of the film recommendation system, such as the accuracy, quality and scalability of the system compared to pure approaches. This is done using a hybrid approach that combines content-based filtering and collaborative filtering.',
     image: porfolioImage10,
     url: 'https://github.com/dev0918/movie_recommendation_system'
   },
   {
-    title: 'Project 8 : ',
-    description: "",
+    title: 'Project 8 : Created my Portfolio',
+    description: "This is my portfolio page that has been created by myself in React.js",
     image: porfolioImage11,
-    url: ''
+    url: 'https://github.com/dev0918/portfolio'
   },
 ];
 
