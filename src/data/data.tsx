@@ -217,13 +217,13 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Project 5 : Scrapping of google news',
     description: "In this project I scraped the data from 'https://news.google.com/' and transforming it into the sheet of respective date.",
     image: porfolioImage7,
-    url: ''
+    url: 'https://github.com/dev0918/Latest_Google_News'
   },
   {
     title: 'Project 6 : Emotion, Age and Gender Detection',
     description: "This machine learning model was trained to detect the gender and age of the user. The objective was to determine the emotion of the person, for this purpose a deep learning model was trained.",
     image: porfolioImage8,
-    url: ''
+    url: 'https://github.com/dev0918/Age_Gender_detection'
   },
   {
     title: 'Project 7 : ',
