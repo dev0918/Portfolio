@@ -71,8 +71,8 @@ export const heroData: Hero = {
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         I'm a Student <strong className="text-stone-100"></strong>, currently persuing Master of Computer Application
-        at <strong className="text-stone-100">Chandigarh University</strong> helping build a modern, mobile-first, domain
-        registrar and site builder.
+        at <strong className="text-stone-100">Chandigarh University.</strong> I'm excited by learning new things, contributing to the data science community, and spreading the word of data!
+I'm fluent at Python, SQL databases, creating UI, and more, with a deep interest in machine learning.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time, I used to scrape the data from different web pages and try to learn <strong className="text-stone-100">New Technologies.</strong>
