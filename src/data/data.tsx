@@ -300,7 +300,7 @@ export const testimonial: TestimonialSection = {
     {
       name: 'Devanshu Kumar',
       text: "I'm very passionate about being able to help people by automating their work that they have to do on daily basic. ",
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/169.jpg',
+      image: 'https://img.freepik.com/free-vector/young-man-black-shirt_1308-173618.jpg',
     },
     {
       name: 'Dr. APJ Abdul Kalam',
