@@ -70,13 +70,13 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        Currently, I’m working at <strong className="text-stone-100"></strong> <strong className="text-stone-100">Clarivate </strong> , where I’ve gained over 1 year of experience, alongside completing my Master's in Computer Applications. With a total of more than 3 years of professional experience, I am highly proficient in Python, SQL databases, and UI development, with a strong command in Machine Learning (ML), Artificial Intelligence (AI), and PostgreSQL.
+        Currently, I’m working at <strong className="text-stone-100"></strong> <strong className="text-stone-100">Clarivate </strong> , where I’ve gained over 1 year of experience, alongside completing my Master's in Computer Applications. With a total of more than 3 years of professional experience, I am highly proficient in Python, SQL databases, and UI development, with a strong command in Machine Learning, Artificial Intelligence, and PostgreSQL.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
       I am passionate about continuously learning and growing, especially in the fields of AI and Data Science, where I actively contribute to the community. My curiosity drives me to explore new technologies and innovate through data-driven insights.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        In my free time, I enjoy scraping data from various web pages, experimenting with <strong className="text-stone-100">New Technologies.</strong> , and expanding my knowledge of emerging tools and frameworks. With a deep interest in data science, I am committed to leveraging my skills to solve real-world problems and drive innovation. 
+        In my free time, I enjoy scraping data from various web pages, experimenting with <strong className="text-stone-100">New Technologies</strong> , and expanding my knowledge of emerging tools and frameworks. With a deep interest in data science, I am committed to leveraging my skills to solve real-world problems and drive innovation. 
          <strong className="text-stone-100"> </strong>
         <strong className="text-stone-100"> </strong>
       </p>
