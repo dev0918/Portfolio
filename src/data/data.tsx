@@ -278,6 +278,7 @@ export const experience: TimelineItem[] = [
         My work is to scrape the data from different web pages as asked by the organization. Some of the pages are : https://www.cbp.gov , https://www.freightnet.com/ 
       </p>
     ),
+  },
   {
     date: 'October 2021 - January 2022',
     location: 'Runnel.AI',
@@ -287,7 +288,6 @@ export const experience: TimelineItem[] = [
         Developed a product from scratch which was used to logging, monitor and check the live status of the Kubernetes services and connected apps.
       </p>
     ),
-  },
   },
 ];
 
