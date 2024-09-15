@@ -305,7 +305,7 @@ export const testimonial: TestimonialSection = {
     {
       name: 'Dr. APJ Abdul Kalam',
       text: 'Do not wait for something big to happen. Start where you are with whatever you have. ',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg',
+      image: 'https://www.google.com/imgres?q=abdul&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5612AQFi1c5T160u0g%2Farticle-cover_image-shrink_720_1280%2F0%2F1658949193337%3Fe%3D2147483647%26v%3Dbeta%26t%3DS8jdm2EAzSQ9B3-NufSQro-7VtMhneX9E8D4M8J2sYU&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fbharat-ratna-shri-apj-abdul-kalam-real-hero-common-singh-bhambra&docid=A_SHV3SjfuSP5M&tbnid=qc01noy8x7DWXM&vet=12ahUKEwiti4nLlMWIAxWVxzgGHTH_GNcQM3oECGgQAA..i&w=960&h=720&hcb=2&ved=2ahUKEwiti4nLlMWIAxWVxzgGHTH_GNcQM3oECGgQAA',
     },
   ],
 };
