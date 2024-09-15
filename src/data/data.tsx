@@ -70,12 +70,13 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Student <strong className="text-stone-100"></strong>, currently persuing Master of Computer Application
-        at <strong className="text-stone-100">Chandigarh University.</strong> I'm excited by learning new things, contributing to the data science community, and spreading the word of data!
-I'm fluent at Python, SQL databases, creating UI, and more, with a deep interest in machine learning.
+        Currently, I’m working at <strong className="text-stone-100"></strong> <strong className="text-stone-100">Clarivate </strong> , where I’ve gained over 1 year of experience, alongside completing my Master's in Computer Applications. With a total of more than 3 years of professional experience, I am highly proficient in Python, SQL databases, and UI development, with a strong command in Machine Learning (ML), Artificial Intelligence (AI), and PostgreSQL.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        In my free time, I used to scrape the data from different web pages and try to learn <strong className="text-stone-100">New Technologies.</strong>
+      I am passionate about continuously learning and growing, especially in the fields of AI and Data Science, where I actively contribute to the community. My curiosity drives me to explore new technologies and innovate through data-driven insights.
+      </p>
+      <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
+        In my free time, I enjoy scraping data from various web pages, experimenting with <strong className="text-stone-100">New Technologies.</strong> , and expanding my knowledge of emerging tools and frameworks. With a deep interest in data science, I am committed to leveraging my skills to solve real-world problems and drive innovation. 
          <strong className="text-stone-100"> </strong>
         <strong className="text-stone-100"> </strong>
       </p>
