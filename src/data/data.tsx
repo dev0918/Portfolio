@@ -107,11 +107,11 @@ export const aboutData: About = {
   in the designated work.`,
   aboutItems: [
     {label: 'Location', text: 'Mohali, Punjab', Icon: MapIcon},
-    {label: 'Age', text: '21', Icon: CalendarIcon},
+    {label: 'Age', text: '23', Icon: CalendarIcon},
     {label: 'Nationality', text: 'Indian', Icon: FlagIcon},
     {label: 'Interests', text: 'Photography, Motorcycles', Icon: SparklesIcon},
     {label: 'Study', text: 'Chandigarh University', Icon: AcademicCapIcon},
-    {label: 'Employment', text: 'HS Code World', Icon: OfficeBuildingIcon},
+    {label: 'Employment', text: 'Clarivate', Icon: OfficeBuildingIcon},
   ],
 };
 
@@ -124,7 +124,7 @@ export const skills: SkillGroup[] = [
     skills: [
       {
         name: 'English',
-        level: 8,
+        level: 9,
       },
       {
         name: 'Hindi',
@@ -162,7 +162,7 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'GraphQL',
-        level: 6,
+        level: 7,
       },
     ],
   },
@@ -175,11 +175,11 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Django',
-        level: 5,
+        level: 7,
       },
       {
         name: 'Flask',
-        level: 4,
+        level: 7,
       },
     ],
   },
@@ -260,6 +260,25 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
   {
+    date: 'October 2023 - Current',
+    location: 'Current',
+    title: 'Software Engineer',
+    content: (
+      <p>
+        Developed a product from scratch which was used to logging, monitor and check the live status of the Kubernetes services and connected apps.
+      </p>
+    ),
+  },
+  {
+    date: 'May 2022 - Sep 2023',
+    location: 'Betasource Tech',
+    title: 'Python Developer',
+    content: (
+      <p>
+        My work is to scrape the data from different web pages as asked by the organization. Some of the pages are : https://www.cbp.gov , https://www.freightnet.com/ 
+      </p>
+    ),
+  {
     date: 'October 2021 - January 2022',
     location: 'Runnel.AI',
     title: 'DevOps Engineer',
@@ -269,15 +288,6 @@ export const experience: TimelineItem[] = [
       </p>
     ),
   },
-  {
-    date: 'May 2022 - June 2022',
-    location: 'HS Code World',
-    title: 'Python Developer',
-    content: (
-      <p>
-        My work is to scrape the data from different web pages as asked by the organization. Some of the pages are : https://www.cbp.gov , https://www.freightnet.com/ 
-      </p>
-    ),
   },
 ];
 
